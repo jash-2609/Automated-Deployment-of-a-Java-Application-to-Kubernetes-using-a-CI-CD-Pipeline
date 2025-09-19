@@ -64,9 +64,6 @@ To establish the infrastructure required for the DevOps tools setup, virtual mac
 
 6. **Monitoring Server (Prometheus and Grafana)**: A single virtual machine hosted both Prometheus and Grafana for monitoring and visualization of system metrics. Prometheus collected metrics from various components of the CI/CD pipeline, while Grafana provided interactive dashboards for real-time monitoring and analysis. 4 Each virtual machine was configured with the necessary resources, including CPU, memory, and storage, to support the respective tool's functionalities and accommodate the workload demands of the CI/CD pipeline. Additionally, security measures such as access controls, network configurations, and encryption were implemented to safeguard the virtualized infrastructure and data integrity.
 
-   #### **<mark>EC2 Instances :</mark>**
-
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742623924551/8c9d48b2-341a-45ac-9cf9-3ff01efa2dd1.png)
 
    #### **<mark>Security Group:</mark>**
 
