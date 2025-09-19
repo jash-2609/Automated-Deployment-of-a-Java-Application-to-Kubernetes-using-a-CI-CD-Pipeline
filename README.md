@@ -803,10 +803,6 @@ pipeline {
 
 ### **Results:**
 
-#### **<mark>JENKINS PIPELINE:</mark>**
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742623342403/c85feb9a-dcef-46be-8e8a-572ca172c6ad.png)
-
 #### **<mark>PROMETHEUS:</mark>**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1742623416764/f62506cc-b35b-48de-bcb4-48c4a2062549.png)
