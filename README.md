@@ -1,6 +1,6 @@
 # CI/CD DevOps Pipeline Project: Deployment of Java Application on Kubernetes
 
-![projectbanner](https://cdn.hashnode.com/res/hashnode/image/upload/v1742624835942/cdd382d3-e0e7-4a62-af8c-15629352b2bc.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+
 
 ## **Introduction**
 
@@ -830,49 +830,9 @@ pipeline {
 
 The successful implementation of the DevOps CI/CD pipeline project marks a significant milestone in enhancing the efficiency, reliability, and quality of software delivery processes. By automating key aspects of the software development lifecycle, including compilation, testing, deployment, and monitoring, the project has enabled rapid and consistent delivery of software releases, contributing to improved time-to-market and customer satisfaction.
 
-### **Acknowledgment of Contributions**
-
-I want to express my gratitude to [**DevOps Shack**](https://www.devopsshack.com/) for their excellent project and implementation guide.
 
 ### **Final Thoughts**
 
 Looking ahead, the project's impact extends beyond its immediate benefits, paving the way for continuous improvement and innovation in software development practices. By embracing DevOps principles and leveraging cutting-edge tools and technologies, we have laid a solid foundation for future projects to build upon. The scalability, flexibility, and resilience of the CI/CD pipeline ensure its adaptability to evolving requirements and technological advancements, positioning our organization for long-term success in a competitive market landscape.
 
-### **References**
 
-1. Jenkins Documentation: [https://www.jenkins.io/doc/](https://www.jenkins.io/doc/)
-
-2. Maven Documentation: [https://maven.apache.org/guides/index.html](https://maven.apache.org/guides/index.html)
-
-3. SonarQube Documentation: [https://docs.sonarqube.org/latest/](https://docs.sonarqube.org/latest/)
-
-4. Trivy Documentation: [https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy)
-
-5. Nexus Repository Manager Documentation: [https://help.sonatype.com/repomanager3](https://help.sonatype.com/repomanager3)
-
-6. Docker Documentation: [https://docs.docker.com/](https://docs.docker.com/)
-
-7. Kubernetes Documentation: [https://kubernetes.io/docs/](https://kubernetes.io/docs/)
-
-8. Prometheus Documentation: [https://prometheus.io/docs/](https://prometheus.io/docs/)
-
-9. Grafana Documentation: [https://grafana.com/docs/](https://grafana.com/docs/)
-
-*These resources provided valuable insights, guidance, and support throughout the project lifecycle, enabling us to achieve our goals effectively.*
-
-## 🛠️ **Author & Community**
-
-This project is crafted by [**Harshhaa**](https://github.com/NotHarshhaa) 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.
-
----
-
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)
-
----
-
-### 📢 **Stay Connected**
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
